@@ -1,5 +1,5 @@
 ![MikroE](http://www.mikroe.com/img/designs/beta/logo_small.png)
-![Wifi 5 Click]
+#Wifi 5 Click
 ##By [MikroElektronika](http://www.mikroe.com)
 
 
